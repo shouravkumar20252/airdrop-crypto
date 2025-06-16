@@ -1,5 +1,5 @@
 import React from "react";
-
+//import linkdin from "./linkdin";
 const Loader = () => {
   return (
     <div class="loader-new-css">
